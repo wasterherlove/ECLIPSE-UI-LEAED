@@ -297,7 +297,7 @@ repeat
  end
  
  local library = {
-    Title = 'eclipse.<font color="rgb(115, 100, 215)">gay</font> || discord.gg/enore',
+    Title = 'eclipse.<font color="rgb(115, 100, 215)">gay</font> || discord.gg/enore ',
     keybind = Enum.KeyCode.RightBracket,
     Watermark = createWatermark(),
        Colors = {
